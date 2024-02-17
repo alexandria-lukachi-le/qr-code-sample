@@ -37,3 +37,9 @@ h1 {
     color: hsl(218, 44%, 22%);
     font-size: 22px;
 }
+
+@media (max-width: 375px) {
+    main {
+        width:100%;
+    }
+}
