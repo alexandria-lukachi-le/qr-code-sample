@@ -16,7 +16,7 @@ main {
     font-family: 'Outfit', sans-serif;
     border-radius: 15px;
     box-shadow: 10px black;
-    width: 15.6rem;
+    width: 18rem;
     padding: 1rem 1rem 1.5rem 1rem;
     background-color: hsl(0, 0%, 100%);
 }
